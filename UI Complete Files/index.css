@@ -1,0 +1,18 @@
+a {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  /* Non-Demo Styles */
+  body {
+    margin-left: 500px;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }

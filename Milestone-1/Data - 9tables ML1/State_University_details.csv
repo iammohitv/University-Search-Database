@@ -1,0 +1,313 @@
+state,state_abbrevation,organization_type,level,university_count,counted_pct,awards_per_state_value
+United States,US,Public,4-year,632,53.4,17.5
+United States,US,Private not-for-profit,4-year,1180,53.4,17.5
+United States,US,Private for-profit,4-year,527,53.4,17.5
+United States,US,Public,2-year,926,53.4,17.5
+United States,US,Private not-for-profit,2-year,68,53.4,17.5
+United States,US,Private for-profit,2-year,465,53.4,17.5
+Alabama,AL,Public,4-year,13,61,18.8
+Alabama,AL,Private not-for-profit,4-year,16,62,17.8
+Alabama,AL,Private for-profit,4-year,9,37.8,29.1
+Alabama,AL,Public,2-year,25,49,15.9
+Alabama,AL,Private not-for-profit,2-year,1,53.4,17.1
+Alabama,AL,Private for-profit,2-year,5,79.6,3.2
+Alaska,AK,Public,4-year,3,51.7,16.3
+Alaska,AK,Private not-for-profit,4-year,1,21.8,22.9
+Alaska,AK,Private for-profit,4-year,1,23.2,34.2
+Alaska,AK,Public,2-year,2,15.6,9.1
+Alaska,AK,Private not-for-profit,2-year,0,53.4,17.5
+Alaska,AK,Private for-profit,2-year,0,53.4,17.5
+Arizona,AZ,Public,4-year,4,63.9,22
+Arizona,AZ,Private not-for-profit,4-year,4,62.3,21.7
+Arizona,AZ,Private for-profit,4-year,23,48,32.8
+Arizona,AZ,Public,2-year,20,24.5,20.4
+Arizona,AZ,Private not-for-profit,2-year,0,53.4,17.5
+Arizona,AZ,Private for-profit,2-year,12,44.9,36.8
+Arkansas,AR,Public,4-year,10,67.3,19.6
+Arkansas,AR,Private not-for-profit,4-year,12,78.3,19.4
+Arkansas,AR,Private for-profit,4-year,2,65.1,20.8
+Arkansas,AR,Public,2-year,22,43.6,23.6
+Arkansas,AR,Private not-for-profit,2-year,1,53.4,11.6
+Arkansas,AR,Private for-profit,2-year,1,100,51.4
+California,CA,Public,4-year,32,58.1,25
+California,CA,Private not-for-profit,4-year,74,68.5,22.4
+California,CA,Private for-profit,4-year,64,54.5,23.2
+California,CA,Public,2-year,113,22.7,12.8
+California,CA,Private not-for-profit,2-year,4,100,34.1
+California,CA,Private for-profit,2-year,63,46.9,39.3
+Colorado,CO,Public,4-year,13,55.4,19.6
+Colorado,CO,Private not-for-profit,4-year,10,65.5,25.3
+Colorado,CO,Private for-profit,4-year,16,54.7,24.7
+Colorado,CO,Public,2-year,14,22.7,13.5
+Colorado,CO,Private not-for-profit,2-year,0,30,17.5
+Colorado,CO,Private for-profit,2-year,17,90,33.7
+Connecticut,CT,Public,4-year,5,67.4,23.9
+Connecticut,CT,Private not-for-profit,4-year,15,80.6,21.8
+Connecticut,CT,Private for-profit,4-year,3,46.2,12.1
+Connecticut,CT,Public,2-year,12,37.2,15.1
+Connecticut,CT,Private not-for-profit,2-year,0,30,17.5
+Connecticut,CT,Private for-profit,2-year,0,30,17.5
+Delaware,DE,Public,4-year,2,90,20.7
+Delaware,DE,Private not-for-profit,4-year,4,43.6,24.4
+Delaware,DE,Private for-profit,4-year,1,30,16
+Delaware,DE,Public,2-year,3,56,16
+Delaware,DE,Private not-for-profit,2-year,1,90.8,31.1
+Delaware,DE,Private for-profit,2-year,0,30,17.5
+District of Columbia,DC,Public,4-year,1,45.6,16.5
+District of Columbia,DC,Private not-for-profit,4-year,8,55.4,22.6
+District of Columbia,DC,Private for-profit,4-year,3,2,16.5
+District of Columbia,DC,Public,2-year,0,30,17.5
+District of Columbia,DC,Private not-for-profit,2-year,0,30,17.5
+District of Columbia,DC,Private for-profit,2-year,0,30,17.5
+Florida,FL,Public,4-year,36,44.1,23.9
+Florida,FL,Private not-for-profit,4-year,47,56.6,24.2
+Florida,FL,Private for-profit,4-year,48,65.8,18.1
+Florida,FL,Public,2-year,5,47.7,21.5
+Florida,FL,Private not-for-profit,2-year,1,53.5,22.1
+Florida,FL,Private for-profit,2-year,39,79.6,34.7
+Georgia,GA,Public,4-year,23,61.7,18.4
+Georgia,GA,Private not-for-profit,4-year,30,74,21.7
+Georgia,GA,Private for-profit,4-year,15,41,18
+Georgia,GA,Public,2-year,28,36.1,17.2
+Georgia,GA,Private not-for-profit,2-year,2,94.8,34
+Georgia,GA,Private for-profit,2-year,8,90.1,32.6
+Hawaii,HI,Public,4-year,4,39.1,22.7
+Hawaii,HI,Private not-for-profit,4-year,5,38.2,21.6
+Hawaii,HI,Private for-profit,4-year,2,39.7,12.4
+Hawaii,HI,Public,2-year,6,27.7,18.7
+Hawaii,HI,Private not-for-profit,2-year,0,30,17.5
+Hawaii,HI,Private for-profit,2-year,1,41.5,28.2
+Idaho,ID,Public,4-year,4,53.8,19
+Idaho,ID,Private not-for-profit,4-year,4,78.2,18
+Idaho,ID,Private for-profit,4-year,3,58.8,30.3
+Idaho,ID,Public,2-year,4,38.4,16.3
+Idaho,ID,Private not-for-profit,2-year,0,30,17.5
+Idaho,ID,Private for-profit,2-year,1,30,55.5
+Illinois,IL,Public,4-year,11,62.2,24.3
+Illinois,IL,Private not-for-profit,4-year,50,64.3,24.2
+Illinois,IL,Private for-profit,4-year,19,62.8,28.6
+Illinois,IL,Public,2-year,48,33.7,14.6
+Illinois,IL,Private not-for-profit,2-year,2,47.8,26.8
+Illinois,IL,Private for-profit,2-year,11,46.1,34.4
+Indiana,IN,Public,4-year,15,79.7,20.4
+Indiana,IN,Private not-for-profit,4-year,32,73.4,23.8
+Indiana,IN,Private for-profit,4-year,13,60.4,26.7
+Indiana,IN,Public,2-year,1,36.3,17.1
+Indiana,IN,Private not-for-profit,2-year,1,66.3,28
+Indiana,IN,Private for-profit,2-year,5,77.9,40.4
+Iowa,IA,Public,4-year,3,71.3,21.2
+Iowa,IA,Private not-for-profit,4-year,31,62.5,25
+Iowa,IA,Private for-profit,4-year,9,14.9,17.3
+Iowa,IA,Public,2-year,16,38.1,21.1
+Iowa,IA,Private not-for-profit,2-year,0,30,17.5
+Iowa,IA,Private for-profit,2-year,2,100,38.3
+Kansas,KS,Public,4-year,8,58.6,22.3
+Kansas,KS,Private not-for-profit,4-year,20,48.3,23.9
+Kansas,KS,Private for-profit,4-year,5,50.7,28.4
+Kansas,KS,Public,2-year,25,38,19.3
+Kansas,KS,Private not-for-profit,2-year,1,65,34.4
+Kansas,KS,Private for-profit,2-year,3,98.2,41.8
+Kentucky,KY,Public,4-year,8,72.3,19.5
+Kentucky,KY,Private not-for-profit,4-year,21,75.4,20.4
+Kentucky,KY,Private for-profit,4-year,15,60.7,28
+Kentucky,KY,Public,2-year,16,47.5,18.5
+Kentucky,KY,Private not-for-profit,2-year,0,30,17.5
+Kentucky,KY,Private for-profit,2-year,7,76.1,41.4
+Louisiana,LA,Public,4-year,14,72.6,18.4
+Louisiana,LA,Private not-for-profit,4-year,9,80.2,19
+Louisiana,LA,Private for-profit,4-year,4,63.5,26.7
+Louisiana,LA,Public,2-year,16,43.8,21.9
+Louisiana,LA,Private not-for-profit,2-year,2,30,16.7
+Louisiana,LA,Private for-profit,2-year,11,77.3,28.9
+Maine,ME,Public,4-year,8,62.5,21.4
+Maine,ME,Private not-for-profit,4-year,11,84.7,22
+Maine,ME,Private for-profit,4-year,1,50.1,22.3
+Maine,ME,Public,2-year,7,42,22.1
+Maine,ME,Private not-for-profit,2-year,1,2,50.9
+Maine,ME,Private for-profit,2-year,1,30,30.2
+Maryland,MD,Public,4-year,12,45.3,23.8
+Maryland,MD,Private not-for-profit,4-year,16,78.5,22.4
+Maryland,MD,Private for-profit,4-year,4,74,23.4
+Maryland,MD,Public,2-year,16,36.6,17.6
+Maryland,MD,Private not-for-profit,2-year,0,30,17.5
+Maryland,MD,Private for-profit,2-year,4,30,38.6
+Massachusetts,MA,Public,4-year,13,64.9,20.9
+Massachusetts,MA,Private not-for-profit,4-year,63,82.7,22.3
+Massachusetts,MA,Private for-profit,4-year,5,79.1,27.1
+Massachusetts,MA,Public,2-year,16,39.4,16.9
+Massachusetts,MA,Private not-for-profit,2-year,2,6.4,59.9
+Massachusetts,MA,Private for-profit,2-year,1,30,56.7
+Michigan,MI,Public,4-year,16,69.7,21.3
+Michigan,MI,Private not-for-profit,4-year,39,51.1,24.2
+Michigan,MI,Private for-profit,4-year,9,60.9,28.3
+Michigan,MI,Public,2-year,30,27.4,18.2
+Michigan,MI,Private not-for-profit,2-year,0,30,17.5
+Michigan,MI,Private for-profit,2-year,0,30,17.5
+Minnesota,MN,Public,4-year,11,55.7,20.9
+Minnesota,MN,Private not-for-profit,4-year,25,72.5,23.7
+Minnesota,MN,Private for-profit,4-year,28,34.3,19.6
+Minnesota,MN,Public,2-year,31,30.1,22.7
+Minnesota,MN,Private not-for-profit,2-year,1,61.4,13
+Minnesota,MN,Private for-profit,2-year,5,78.8,38
+Mississippi,MS,Public,4-year,8,59.3,19
+Mississippi,MS,Private not-for-profit,4-year,7,53.3,21.1
+Mississippi,MS,Private for-profit,4-year,0,30,17.5
+Mississippi,MS,Public,2-year,15,63,20
+Mississippi,MS,Private not-for-profit,2-year,0,30,17.5
+Mississippi,MS,Private for-profit,2-year,6,64.9,38
+Missouri,MO,Public,4-year,13,62.1,21
+Missouri,MO,Private not-for-profit,4-year,34,50.6,24.5
+Missouri,MO,Private for-profit,4-year,20,57.5,32
+Missouri,MO,Public,2-year,14,51.5,16.5
+Missouri,MO,Private not-for-profit,2-year,3,11.4,29.3
+Missouri,MO,Private for-profit,2-year,19,82.3,36.2
+Montana,MT,Public,4-year,6,63.9,18.4
+Montana,MT,Private not-for-profit,4-year,4,67.9,20.9
+Montana,MT,Private for-profit,4-year,0,30,17.5
+Montana,MT,Public,2-year,11,49,20.9
+Montana,MT,Private not-for-profit,2-year,1,77.2,16.1
+Montana,MT,Private for-profit,2-year,0,30,17.5
+Nebraska,NE,Public,4-year,6,71.6,19.6
+Nebraska,NE,Private not-for-profit,4-year,15,73.7,27.2
+Nebraska,NE,Private for-profit,4-year,4,81.2,24.9
+Nebraska,NE,Public,2-year,8,28.8,16.9
+Nebraska,NE,Private not-for-profit,2-year,1,49.1,13.8
+Nebraska,NE,Private for-profit,2-year,2,30,31.1
+Nevada,NV,Public,4-year,6,30.7,16.5
+Nevada,NV,Private not-for-profit,4-year,1,60.7,18.4
+Nevada,NV,Private for-profit,4-year,6,50.1,19.7
+Nevada,NV,Public,2-year,1,22.5,16.3
+Nevada,NV,Private not-for-profit,2-year,0,30,17.5
+Nevada,NV,Private for-profit,2-year,6,30,27.7
+New Hampshire,NH,Public,4-year,5,55.1,22
+New Hampshire,NH,Private not-for-profit,4-year,8,87.1,20.7
+New Hampshire,NH,Private for-profit,4-year,2,59.9,32.9
+New Hampshire,NH,Public,2-year,7,26,19.3
+New Hampshire,NH,Private not-for-profit,2-year,2,31.7,39
+New Hampshire,NH,Private for-profit,2-year,0,30,17.5
+New Jersey,NJ,Public,4-year,12,58,21.5
+New Jersey,NJ,Private not-for-profit,4-year,18,71.4,22.2
+New Jersey,NJ,Private for-profit,4-year,3,70.4,18.1
+New Jersey,NJ,Public,2-year,19,54.2,15.8
+New Jersey,NJ,Private not-for-profit,2-year,0,30,12.5
+New Jersey,NJ,Private for-profit,2-year,3,65.3,44.6
+New Mexico,NM,Public,4-year,9,63.2,18.3
+New Mexico,NM,Private not-for-profit,4-year,2,74.2,17.7
+New Mexico,NM,Private for-profit,4-year,8,52.3,23
+New Mexico,NM,Public,2-year,19,39.3,20.5
+New Mexico,NM,Private not-for-profit,2-year,0,30,12.5
+New Mexico,NM,Private for-profit,2-year,2,30,36.7
+New York,NY,Public,4-year,39,57.5,22.6
+New York,NY,Private not-for-profit,4-year,116,74.3,22.8
+New York,NY,Private for-profit,4-year,17,64.4,22.6
+New York,NY,Public,2-year,35,59.3,18
+New York,NY,Private not-for-profit,2-year,12,52.1,34.9
+New York,NY,Private for-profit,2-year,22,76.1,24.9
+North Carolina,NC,Public,4-year,16,64.7,21.1
+North Carolina,NC,Private not-for-profit,4-year,43,78.1,21.4
+North Carolina,NC,Private for-profit,4-year,12,45.9,19.5
+North Carolina,NC,Public,2-year,59,25.4,14.8
+North Carolina,NC,Private not-for-profit,2-year,1,91,13.4
+North Carolina,NC,Private for-profit,2-year,4,79.4,35.9
+North Dakota,ND,Public,4-year,9,56.8,19.9
+North Dakota,ND,Private not-for-profit,4-year,5,70.9,20.3
+North Dakota,ND,Private for-profit,4-year,1,23.6,30.2
+North Dakota,ND,Public,2-year,5,28.5,25.9
+North Dakota,ND,Private not-for-profit,2-year,0,30,12.5
+North Dakota,ND,Private for-profit,2-year,0,30,12.5
+Ohio,OH,Public,4-year,34,77.2,19.5
+Ohio,OH,Private not-for-profit,4-year,57,75.8,22.6
+Ohio,OH,Private for-profit,4-year,24,72.9,27.6
+Ohio,OH,Public,2-year,25,36.1,15.3
+Ohio,OH,Private not-for-profit,2-year,3,38,21.3
+Ohio,OH,Private for-profit,2-year,42,52.9,34.1
+Oklahoma,OK,Public,4-year,15,57.5,19.8
+Oklahoma,OK,Private not-for-profit,4-year,12,68.6,21.9
+Oklahoma,OK,Private for-profit,4-year,8,72.1,25.4
+Oklahoma,OK,Public,2-year,12,35.4,17.9
+Oklahoma,OK,Private not-for-profit,2-year,0,30,12.5
+Oklahoma,OK,Private for-profit,2-year,9,30,41.5
+Oregon,OR,Public,4-year,7,49.3,21.3
+Oregon,OR,Private not-for-profit,4-year,17,71.6,22.7
+Oregon,OR,Private for-profit,4-year,4,50.4,29.2
+Oregon,OR,Public,2-year,17,31.5,16.9
+Oregon,OR,Private not-for-profit,2-year,0,30,12.5
+Oregon,OR,Private for-profit,2-year,5,42.4,39.6
+Pennsylvania,PA,Public,4-year,41,72.6,21.3
+Pennsylvania,PA,Private not-for-profit,4-year,82,80.7,22.2
+Pennsylvania,PA,Private for-profit,4-year,9,33,16.3
+Pennsylvania,PA,Public,2-year,16,37.6,15.6
+Pennsylvania,PA,Private not-for-profit,2-year,13,64.7,23.1
+Pennsylvania,PA,Private for-profit,2-year,56,79.1,36.4
+Rhode Island,RI,Public,4-year,2,72.2,20.1
+Rhode Island,RI,Private not-for-profit,4-year,8,87.9,25.6
+Rhode Island,RI,Private for-profit,4-year,0,30,12.5
+Rhode Island,RI,Public,2-year,1,26,16
+Rhode Island,RI,Private not-for-profit,2-year,0,30,12.5
+Rhode Island,RI,Private for-profit,2-year,0,30,12.5
+South Carolina,SC,Public,4-year,12,73.9,19.7
+South Carolina,SC,Private not-for-profit,4-year,20,76.6,18.9
+South Carolina,SC,Private for-profit,4-year,8,79.9,21.6
+South Carolina,SC,Public,2-year,20,41.9,13.4
+South Carolina,SC,Private not-for-profit,2-year,1,90.4,23.3
+South Carolina,SC,Private for-profit,2-year,5,74.9,34.4
+South Dakota,SD,Public,4-year,7,61.7,18.5
+South Dakota,SD,Private not-for-profit,4-year,6,57.1,21.9
+South Dakota,SD,Private for-profit,4-year,4,13.2,18.5
+South Dakota,SD,Public,2-year,5,74.4,32
+South Dakota,SD,Private not-for-profit,2-year,1,12.6,15.5
+South Dakota,SD,Private for-profit,2-year,0,30,12.5
+Tennessee,TN,Public,4-year,9,67.5,19.5
+Tennessee,TN,Private not-for-profit,4-year,38,74.5,20.9
+Tennessee,TN,Private for-profit,4-year,16,63.9,22.4
+Tennessee,TN,Public,2-year,13,53.4,16.7
+Tennessee,TN,Private not-for-profit,2-year,3,33.1,21.3
+Tennessee,TN,Private for-profit,2-year,15,62.9,37.8
+Texas,TX,Public,4-year,35,61.7,21.7
+Texas,TX,Private not-for-profit,4-year,44,71.4,23.3
+Texas,TX,Private for-profit,4-year,22,53.8,23.9
+Texas,TX,Public,2-year,63,29.8,15
+Texas,TX,Private not-for-profit,2-year,6,57,19.3
+Texas,TX,Private for-profit,2-year,37,82.2,35.1
+Utah,UT,Public,4-year,7,57.3,22
+Utah,UT,Private not-for-profit,4-year,7,66.2,18.9
+Utah,UT,Private for-profit,4-year,11,38.3,30.1
+Utah,UT,Public,2-year,1,38,17.5
+Utah,UT,Private not-for-profit,2-year,1,56.7,36.6
+Utah,UT,Private for-profit,2-year,3,53.1,42.7
+Vermont,VT,Public,4-year,5,72.8,24.4
+Vermont,VT,Private not-for-profit,4-year,13,80.2,21.7
+Vermont,VT,Private for-profit,4-year,1,30,25.9
+Vermont,VT,Public,2-year,1,13.2,17.7
+Vermont,VT,Private not-for-profit,2-year,0,30,12.5
+Vermont,VT,Private for-profit,2-year,0,30,12.5
+Virginia,VA,Public,4-year,15,70.8,22
+Virginia,VA,Private not-for-profit,4-year,28,66.1,19.4
+Virginia,VA,Private for-profit,4-year,20,53.4,28.6
+Virginia,VA,Public,2-year,24,42,19.3
+Virginia,VA,Private not-for-profit,2-year,0,30,12.5
+Virginia,VA,Private for-profit,2-year,17,73.6,28.4
+Washington,WA,Public,4-year,18,32.9,23.8
+Washington,WA,Private not-for-profit,4-year,16,73,24
+Washington,WA,Private for-profit,4-year,9,53.6,22.2
+Washington,WA,Public,2-year,25,14.6,20.5
+Washington,WA,Private not-for-profit,2-year,0,30,12.5
+Washington,WA,Private for-profit,2-year,5,30,37.3
+West Virginia,WV,Public,4-year,12,72,18
+West Virginia,WV,Private not-for-profit,4-year,8,76.7,19.9
+West Virginia,WV,Private for-profit,4-year,1,63.5,11.9
+West Virginia,WV,Public,2-year,10,37,20.5
+West Virginia,WV,Private not-for-profit,2-year,0,30,12.5
+West Virginia,WV,Private for-profit,2-year,8,71.4,33.1
+Wisconsin,WI,Public,4-year,14,63.6,20.3
+Wisconsin,WI,Private not-for-profit,4-year,24,71.8,22
+Wisconsin,WI,Private for-profit,4-year,15,53.4,25.1
+Wisconsin,WI,Public,2-year,17,32.4,22.8
+Wisconsin,WI,Private not-for-profit,2-year,0,30,12.5
+Wisconsin,WI,Private for-profit,2-year,1,30,31.6
+Wyoming,WY,Public,4-year,1,63.3,21.3
+Wyoming,WY,Private not-for-profit,4-year,0,30,12.5
+Wyoming,WY,Private for-profit,4-year,0,30,12.5
+Wyoming,WY,Public,2-year,7,35.2,18.6
+Wyoming,WY,Private not-for-profit,2-year,0,30,12.5
+Wyoming,WY,Private for-profit,2-year,1,30,58.1

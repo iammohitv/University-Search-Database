@@ -1,0 +1,1000 @@
+universityid,year,gender,race,program_type,passing_rate
+100760,2011,Both Gender,Unspecified,2y all,242
+100760,2011,Male,Unspecified,2y all,272
+100760,2011,Female,Unspecified,2y all,205
+100760,2011,Both Gender,White,2y all,371
+100760,2011,Male,White,2y all,325
+100760,2011,Female,White,2y all,308
+100760,2011,Both Gender,Black,2y all,266
+100760,2011,Male,Black,2y all,213
+100760,2011,Female,Black,2y all,257
+100760,2011,Both Gender,Hispanic,2y all,194
+100760,2011,Male,Hispanic,2y all,280
+100760,2011,Female,Hispanic,2y all,54
+100760,2011,Both Gender,American Indian,2y all,334
+100760,2011,Male,American Indian,2y all,224
+100760,2011,Female,American Indian,2y all,397
+100760,2011,Both Gender,Asian,2y all,275
+100760,2011,Male,Asian,2y all,273
+100760,2011,Female,Asian,2y all,348
+100760,2012,Both Gender,Unspecified,2y all,99
+100760,2012,Male,Unspecified,2y all,137
+100760,2012,Female,Unspecified,2y all,311
+100760,2012,Both Gender,White,2y all,104
+100760,2012,Male,White,2y all,167
+100760,2012,Female,White,2y all,198
+100760,2012,Both Gender,Black,2y all,187
+100760,2012,Male,Black,2y all,264
+100760,2012,Female,Black,2y all,73
+100760,2012,Both Gender,Hispanic,2y all,134
+100760,2012,Male,Hispanic,2y all,64
+100760,2012,Female,Hispanic,2y all,239
+100760,2012,Both Gender,American Indian,2y all,239
+100760,2012,Male,American Indian,2y all,393
+100760,2012,Female,American Indian,2y all,145
+100760,2012,Both Gender,Asian,2y all,222
+100760,2012,Male,Asian,2y all,275
+100760,2012,Female,Asian,2y all,281
+100760,2013,Both Gender,Unspecified,2y all,400
+100760,2013,Male,Unspecified,2y all,91
+100760,2013,Female,Unspecified,2y all,315
+100760,2013,Both Gender,White,2y all,180
+100760,2013,Male,White,2y all,162
+100760,2013,Female,White,2y all,131
+100760,2013,Both Gender,Black,2y all,323
+100760,2013,Male,Black,2y all,97
+100760,2013,Female,Black,2y all,135
+100760,2013,Both Gender,Hispanic,2y all,282
+100760,2013,Male,Hispanic,2y all,130
+100760,2013,Female,Hispanic,2y all,364
+100760,2013,Both Gender,American Indian,2y all,85
+100760,2013,Male,American Indian,2y all,230
+100760,2013,Female,American Indian,2y all,216
+100760,2013,Both Gender,Asian,2y all,383
+100760,2013,Male,Asian,2y all,380
+100760,2013,Female,Asian,2y all,163
+101028,2011,Both Gender,Unspecified,2y all,104
+101028,2011,Male,Unspecified,2y all,214
+101028,2011,Female,Unspecified,2y all,316
+101028,2011,Both Gender,White,2y all,250
+101028,2011,Male,White,2y all,163
+101028,2011,Female,White,2y all,277
+101028,2011,Both Gender,Black,2y all,174
+101028,2011,Male,Black,2y all,64
+101028,2011,Female,Black,2y all,395
+101028,2011,Both Gender,Hispanic,2y all,390
+101028,2011,Male,Hispanic,2y all,320
+101028,2011,Female,Hispanic,2y all,377
+101028,2011,Both Gender,American Indian,2y all,100
+101028,2011,Male,American Indian,2y all,357
+101028,2011,Female,American Indian,2y all,357
+101028,2011,Both Gender,Asian,2y all,191
+101028,2011,Male,Asian,2y all,111
+101028,2011,Female,Asian,2y all,304
+101028,2012,Both Gender,Unspecified,2y all,364
+101028,2012,Male,Unspecified,2y all,336
+101028,2012,Female,Unspecified,2y all,204
+101028,2012,Both Gender,White,2y all,310
+101028,2012,Male,White,2y all,314
+101028,2012,Female,White,2y all,197
+101028,2012,Both Gender,Black,2y all,161
+101028,2012,Male,Black,2y all,101
+101028,2012,Female,Black,2y all,160
+101028,2012,Both Gender,Hispanic,2y all,252
+101028,2012,Male,Hispanic,2y all,135
+101028,2012,Female,Hispanic,2y all,161
+101028,2012,Both Gender,American Indian,2y all,264
+101028,2012,Male,American Indian,2y all,161
+101028,2012,Female,American Indian,2y all,65
+101028,2012,Both Gender,Asian,2y all,139
+101028,2012,Male,Asian,2y all,233
+101028,2012,Female,Asian,2y all,288
+101028,2013,Both Gender,Unspecified,2y all,301
+101028,2013,Male,Unspecified,2y all,267
+101028,2013,Female,Unspecified,2y all,189
+101028,2013,Both Gender,White,2y all,315
+101028,2013,Male,White,2y all,354
+101028,2013,Female,White,2y all,76
+101028,2013,Both Gender,Black,2y all,125
+101028,2013,Male,Black,2y all,276
+101028,2013,Female,Black,2y all,98
+101028,2013,Both Gender,Hispanic,2y all,69
+101028,2013,Male,Hispanic,2y all,335
+101028,2013,Female,Hispanic,2y all,219
+101028,2013,Both Gender,American Indian,2y all,95
+101028,2013,Male,American Indian,2y all,145
+101028,2013,Female,American Indian,2y all,59
+101028,2013,Both Gender,Asian,2y all,210
+101028,2013,Male,Asian,2y all,147
+101028,2013,Female,Asian,2y all,102
+101143,2011,Both Gender,Unspecified,2y all,183
+101143,2011,Male,Unspecified,2y all,292
+101143,2011,Female,Unspecified,2y all,303
+101143,2011,Both Gender,White,2y all,259
+101143,2011,Male,White,2y all,337
+101143,2011,Female,White,2y all,67
+101143,2011,Both Gender,Black,2y all,197
+101143,2011,Male,Black,2y all,241
+101143,2011,Female,Black,2y all,150
+101143,2011,Both Gender,Hispanic,2y all,235
+101143,2011,Male,Hispanic,2y all,111
+101143,2011,Female,Hispanic,2y all,78
+101143,2011,Both Gender,American Indian,2y all,147
+101143,2011,Male,American Indian,2y all,105
+101143,2011,Female,American Indian,2y all,274
+101143,2011,Both Gender,Asian,2y all,148
+101143,2011,Male,Asian,2y all,362
+101143,2011,Female,Asian,2y all,163
+101143,2012,Both Gender,Unspecified,2y all,81
+101143,2012,Male,Unspecified,2y all,363
+101143,2012,Female,Unspecified,2y all,129
+101143,2012,Both Gender,White,2y all,85
+101143,2012,Male,White,2y all,202
+101143,2012,Female,White,2y all,376
+101143,2012,Both Gender,Black,2y all,350
+101143,2012,Male,Black,2y all,373
+101143,2012,Female,Black,2y all,214
+101143,2012,Both Gender,Hispanic,2y all,181
+101143,2012,Male,Hispanic,2y all,345
+101143,2012,Female,Hispanic,2y all,231
+101143,2012,Both Gender,American Indian,2y all,176
+101143,2012,Male,American Indian,2y all,390
+101143,2012,Female,American Indian,2y all,304
+101143,2012,Both Gender,Asian,2y all,133
+101143,2012,Male,Asian,2y all,90
+101143,2012,Female,Asian,2y all,284
+101143,2013,Both Gender,Unspecified,2y all,55
+101143,2013,Male,Unspecified,2y all,227
+101143,2013,Female,Unspecified,2y all,189
+101143,2013,Both Gender,White,2y all,124
+101143,2013,Male,White,2y all,150
+101143,2013,Female,White,2y all,270
+101143,2013,Both Gender,Black,2y all,259
+101143,2013,Male,Black,2y all,228
+101143,2013,Female,Black,2y all,226
+101143,2013,Both Gender,Hispanic,2y all,267
+101143,2013,Male,Hispanic,2y all,293
+101143,2013,Female,Hispanic,2y all,215
+101143,2013,Both Gender,American Indian,2y all,241
+101143,2013,Male,American Indian,2y all,242
+101143,2013,Female,American Indian,2y all,269
+101143,2013,Both Gender,Asian,2y all,109
+101143,2013,Male,Asian,2y all,233
+101143,2013,Female,Asian,2y all,378
+101161,2011,Both Gender,Unspecified,2y all,396
+101161,2011,Male,Unspecified,2y all,382
+101161,2011,Female,Unspecified,2y all,209
+101161,2011,Both Gender,White,2y all,220
+101161,2011,Male,White,2y all,356
+101161,2011,Female,White,2y all,205
+101161,2011,Both Gender,Black,2y all,168
+101161,2011,Male,Black,2y all,310
+101161,2011,Female,Black,2y all,82
+101161,2011,Both Gender,Hispanic,2y all,353
+101161,2011,Male,Hispanic,2y all,67
+101161,2011,Female,Hispanic,2y all,53
+101161,2011,Both Gender,American Indian,2y all,389
+101161,2011,Male,American Indian,2y all,96
+101161,2011,Female,American Indian,2y all,165
+101161,2011,Both Gender,Asian,2y all,268
+101161,2011,Male,Asian,2y all,339
+101161,2011,Female,Asian,2y all,307
+101161,2012,Both Gender,Unspecified,2y all,143
+101161,2012,Male,Unspecified,2y all,399
+101161,2012,Female,Unspecified,2y all,68
+101161,2012,Both Gender,White,2y all,231
+101161,2012,Male,White,2y all,78
+101161,2012,Female,White,2y all,63
+101161,2012,Both Gender,Black,2y all,247
+101161,2012,Male,Black,2y all,210
+101161,2012,Female,Black,2y all,295
+101161,2012,Both Gender,Hispanic,2y all,327
+101161,2012,Male,Hispanic,2y all,284
+101161,2012,Female,Hispanic,2y all,145
+101161,2012,Both Gender,American Indian,2y all,372
+101161,2012,Male,American Indian,2y all,67
+101161,2012,Female,American Indian,2y all,67
+101161,2012,Both Gender,Asian,2y all,390
+101161,2012,Male,Asian,2y all,377
+101161,2012,Female,Asian,2y all,292
+101161,2013,Both Gender,Unspecified,2y all,381
+101161,2013,Male,Unspecified,2y all,159
+101161,2013,Female,Unspecified,2y all,227
+101161,2013,Both Gender,White,2y all,294
+101161,2013,Male,White,2y all,147
+101161,2013,Female,White,2y all,173
+101161,2013,Both Gender,Black,2y all,354
+101161,2013,Male,Black,2y all,302
+101161,2013,Female,Black,2y all,298
+101161,2013,Both Gender,Hispanic,2y all,233
+101161,2013,Male,Hispanic,2y all,72
+101161,2013,Female,Hispanic,2y all,127
+101161,2013,Both Gender,American Indian,2y all,92
+101161,2013,Male,American Indian,2y all,116
+101161,2013,Female,American Indian,2y all,148
+101161,2013,Both Gender,Asian,2y all,389
+101161,2013,Male,Asian,2y all,214
+101161,2013,Female,Asian,2y all,269
+101240,2011,Both Gender,Unspecified,2y all,375
+101240,2011,Male,Unspecified,2y all,335
+101240,2011,Female,Unspecified,2y all,338
+101240,2011,Both Gender,White,2y all,277
+101240,2011,Male,White,2y all,238
+101240,2011,Female,White,2y all,131
+101240,2011,Both Gender,Black,2y all,190
+101240,2011,Male,Black,2y all,168
+101240,2011,Female,Black,2y all,289
+101240,2011,Both Gender,Hispanic,2y all,336
+101240,2011,Male,Hispanic,2y all,106
+101240,2011,Female,Hispanic,2y all,356
+101240,2011,Both Gender,American Indian,2y all,156
+101240,2011,Male,American Indian,2y all,82
+101240,2011,Female,American Indian,2y all,276
+101240,2011,Both Gender,Asian,2y all,372
+101240,2011,Male,Asian,2y all,336
+101240,2011,Female,Asian,2y all,258
+101240,2012,Both Gender,Unspecified,2y all,344
+101240,2012,Male,Unspecified,2y all,107
+101240,2012,Female,Unspecified,2y all,198
+101240,2012,Both Gender,White,2y all,89
+101240,2012,Male,White,2y all,191
+101240,2012,Female,White,2y all,275
+101240,2012,Both Gender,Black,2y all,105
+101240,2012,Male,Black,2y all,242
+101240,2012,Female,Black,2y all,317
+101240,2012,Both Gender,Hispanic,2y all,176
+101240,2012,Male,Hispanic,2y all,199
+101240,2012,Female,Hispanic,2y all,98
+101240,2012,Both Gender,American Indian,2y all,350
+101240,2012,Male,American Indian,2y all,327
+101240,2012,Female,American Indian,2y all,189
+101240,2012,Both Gender,Asian,2y all,238
+101240,2012,Male,Asian,2y all,319
+101240,2012,Female,Asian,2y all,284
+101240,2013,Both Gender,Unspecified,2y all,123
+101240,2013,Male,Unspecified,2y all,313
+101240,2013,Female,Unspecified,2y all,287
+101240,2013,Both Gender,White,2y all,330
+101240,2013,Male,White,2y all,208
+101240,2013,Female,White,2y all,209
+101240,2013,Both Gender,Black,2y all,188
+101240,2013,Male,Black,2y all,202
+101240,2013,Female,Black,2y all,321
+101240,2013,Both Gender,Hispanic,2y all,400
+101240,2013,Male,Hispanic,2y all,374
+101240,2013,Female,Hispanic,2y all,249
+101240,2013,Both Gender,American Indian,2y all,285
+101240,2013,Male,American Indian,2y all,399
+101240,2013,Female,American Indian,2y all,332
+101240,2013,Both Gender,Asian,2y all,147
+101240,2013,Male,Asian,2y all,368
+101240,2013,Female,Asian,2y all,139
+101286,2011,Both Gender,Unspecified,2y all,308
+101286,2011,Male,Unspecified,2y all,370
+101286,2011,Female,Unspecified,2y all,64
+101286,2011,Both Gender,White,2y all,307
+101286,2011,Male,White,2y all,246
+101286,2011,Female,White,2y all,366
+101286,2011,Both Gender,Black,2y all,356
+101286,2011,Male,Black,2y all,388
+101286,2011,Female,Black,2y all,148
+101286,2011,Both Gender,Hispanic,2y all,313
+101286,2011,Male,Hispanic,2y all,360
+101286,2011,Female,Hispanic,2y all,360
+101286,2011,Both Gender,American Indian,2y all,103
+101286,2011,Male,American Indian,2y all,78
+101286,2011,Female,American Indian,2y all,269
+101286,2011,Both Gender,Asian,2y all,131
+101286,2011,Male,Asian,2y all,392
+101286,2011,Female,Asian,2y all,169
+101286,2012,Both Gender,Unspecified,2y all,250
+101286,2012,Male,Unspecified,2y all,225
+101286,2012,Female,Unspecified,2y all,400
+101286,2012,Both Gender,White,2y all,398
+101286,2012,Male,White,2y all,268
+101286,2012,Female,White,2y all,393
+101286,2012,Both Gender,Black,2y all,268
+101286,2012,Male,Black,2y all,354
+101286,2012,Female,Black,2y all,317
+101286,2012,Both Gender,Hispanic,2y all,373
+101286,2012,Male,Hispanic,2y all,164
+101286,2012,Female,Hispanic,2y all,215
+101286,2012,Both Gender,American Indian,2y all,282
+101286,2012,Male,American Indian,2y all,279
+101286,2012,Female,American Indian,2y all,211
+101286,2012,Both Gender,Asian,2y all,83
+101286,2012,Male,Asian,2y all,107
+101286,2012,Female,Asian,2y all,158
+101286,2013,Both Gender,Unspecified,2y all,375
+101286,2013,Male,Unspecified,2y all,274
+101286,2013,Female,Unspecified,2y all,82
+101286,2013,Both Gender,White,2y all,168
+101286,2013,Male,White,2y all,243
+101286,2013,Female,White,2y all,218
+101286,2013,Both Gender,Black,2y all,199
+101286,2013,Male,Black,2y all,134
+101286,2013,Female,Black,2y all,264
+101286,2013,Both Gender,Hispanic,2y all,89
+101286,2013,Male,Hispanic,2y all,94
+101286,2013,Female,Hispanic,2y all,228
+101286,2013,Both Gender,American Indian,2y all,60
+101286,2013,Male,American Indian,2y all,198
+101286,2013,Female,American Indian,2y all,75
+101286,2013,Both Gender,Asian,2y all,372
+101286,2013,Male,Asian,2y all,245
+101286,2013,Female,Asian,2y all,224
+101295,2011,Both Gender,Unspecified,2y all,225
+101295,2011,Male,Unspecified,2y all,234
+101295,2011,Female,Unspecified,2y all,241
+101295,2011,Both Gender,White,2y all,142
+101295,2011,Male,White,2y all,377
+101295,2011,Female,White,2y all,299
+101295,2011,Both Gender,Black,2y all,297
+101295,2011,Male,Black,2y all,209
+101295,2011,Female,Black,2y all,107
+101295,2011,Both Gender,Hispanic,2y all,190
+101295,2011,Male,Hispanic,2y all,273
+101295,2011,Female,Hispanic,2y all,323
+101295,2011,Both Gender,American Indian,2y all,353
+101295,2011,Male,American Indian,2y all,204
+101295,2011,Female,American Indian,2y all,140
+101295,2011,Both Gender,Asian,2y all,63
+101295,2011,Male,Asian,2y all,55
+101295,2011,Female,Asian,2y all,324
+101295,2012,Both Gender,Unspecified,2y all,384
+101295,2012,Male,Unspecified,2y all,398
+101295,2012,Female,Unspecified,2y all,84
+101295,2012,Both Gender,White,2y all,400
+101295,2012,Male,White,2y all,202
+101295,2012,Female,White,2y all,201
+101295,2012,Both Gender,Black,2y all,318
+101295,2012,Male,Black,2y all,52
+101295,2012,Female,Black,2y all,222
+101295,2012,Both Gender,Hispanic,2y all,324
+101295,2012,Male,Hispanic,2y all,252
+101295,2012,Female,Hispanic,2y all,59
+101295,2012,Both Gender,American Indian,2y all,241
+101295,2012,Male,American Indian,2y all,343
+101295,2012,Female,American Indian,2y all,181
+101295,2012,Both Gender,Asian,2y all,375
+101295,2012,Male,Asian,2y all,318
+101295,2012,Female,Asian,2y all,314
+101295,2013,Both Gender,Unspecified,2y all,182
+101295,2013,Male,Unspecified,2y all,90
+101295,2013,Female,Unspecified,2y all,126
+101295,2013,Both Gender,White,2y all,268
+101295,2013,Male,White,2y all,267
+101295,2013,Female,White,2y all,281
+101295,2013,Both Gender,Black,2y all,119
+101295,2013,Male,Black,2y all,80
+101295,2013,Female,Black,2y all,252
+101295,2013,Both Gender,Hispanic,2y all,298
+101295,2013,Male,Hispanic,2y all,142
+101295,2013,Female,Hispanic,2y all,273
+101295,2013,Both Gender,American Indian,2y all,258
+101295,2013,Male,American Indian,2y all,177
+101295,2013,Female,American Indian,2y all,336
+101295,2013,Both Gender,Asian,2y all,108
+101295,2013,Male,Asian,2y all,297
+101295,2013,Female,Asian,2y all,277
+101301,2011,Both Gender,Unspecified,2y all,160
+101301,2011,Male,Unspecified,2y all,174
+101301,2011,Female,Unspecified,2y all,108
+101301,2011,Both Gender,White,2y all,208
+101301,2011,Male,White,2y all,128
+101301,2011,Female,White,2y all,361
+101301,2011,Both Gender,Black,2y all,396
+101301,2011,Male,Black,2y all,91
+101301,2011,Female,Black,2y all,382
+101301,2011,Both Gender,Hispanic,2y all,208
+101301,2011,Male,Hispanic,2y all,75
+101301,2011,Female,Hispanic,2y all,309
+101301,2011,Both Gender,American Indian,2y all,212
+101301,2011,Male,American Indian,2y all,204
+101301,2011,Female,American Indian,2y all,89
+101301,2011,Both Gender,Asian,2y all,155
+101301,2011,Male,Asian,2y all,163
+101301,2011,Female,Asian,2y all,179
+101301,2012,Both Gender,Unspecified,2y all,342
+101301,2012,Male,Unspecified,2y all,150
+101301,2012,Female,Unspecified,2y all,257
+101301,2012,Both Gender,White,2y all,383
+101301,2012,Male,White,2y all,359
+101301,2012,Female,White,2y all,170
+101301,2012,Both Gender,Black,2y all,71
+101301,2012,Male,Black,2y all,214
+101301,2012,Female,Black,2y all,92
+101301,2012,Both Gender,Hispanic,2y all,199
+101301,2012,Male,Hispanic,2y all,264
+101301,2012,Female,Hispanic,2y all,372
+101301,2012,Both Gender,American Indian,2y all,311
+101301,2012,Male,American Indian,2y all,69
+101301,2012,Female,American Indian,2y all,345
+101301,2012,Both Gender,Asian,2y all,67
+101301,2012,Male,Asian,2y all,363
+101301,2012,Female,Asian,2y all,324
+101301,2013,Both Gender,Unspecified,2y all,305
+101301,2013,Male,Unspecified,2y all,306
+101301,2013,Female,Unspecified,2y all,358
+101301,2013,Both Gender,White,2y all,307
+101301,2013,Male,White,2y all,99
+101301,2013,Female,White,2y all,118
+101301,2013,Both Gender,Black,2y all,345
+101301,2013,Male,Black,2y all,99
+101301,2013,Female,Black,2y all,127
+101301,2013,Both Gender,Hispanic,2y all,198
+101301,2013,Male,Hispanic,2y all,387
+101301,2013,Female,Hispanic,2y all,299
+101301,2013,Both Gender,American Indian,2y all,143
+101301,2013,Male,American Indian,2y all,366
+101301,2013,Female,American Indian,2y all,399
+101301,2013,Both Gender,Asian,2y all,379
+101301,2013,Male,Asian,2y all,271
+101301,2013,Female,Asian,2y all,62
+101462,2011,Both Gender,Unspecified,2y all,352
+101462,2011,Male,Unspecified,2y all,390
+101462,2011,Female,Unspecified,2y all,314
+101462,2011,Both Gender,White,2y all,280
+101462,2011,Male,White,2y all,240
+101462,2011,Female,White,2y all,182
+101462,2011,Both Gender,Black,2y all,112
+101462,2011,Male,Black,2y all,217
+101462,2011,Female,Black,2y all,245
+101462,2011,Both Gender,Hispanic,2y all,335
+101462,2011,Male,Hispanic,2y all,178
+101462,2011,Female,Hispanic,2y all,202
+101462,2011,Both Gender,American Indian,2y all,242
+101462,2011,Male,American Indian,2y all,252
+101462,2011,Female,American Indian,2y all,391
+101462,2011,Both Gender,Asian,2y all,350
+101462,2011,Male,Asian,2y all,329
+101462,2011,Female,Asian,2y all,390
+101462,2012,Both Gender,Unspecified,2y all,340
+101462,2012,Male,Unspecified,2y all,294
+101462,2012,Female,Unspecified,2y all,131
+101462,2012,Both Gender,White,2y all,272
+101462,2012,Male,White,2y all,174
+101462,2012,Female,White,2y all,377
+101462,2012,Both Gender,Black,2y all,96
+101462,2012,Male,Black,2y all,81
+101462,2012,Female,Black,2y all,113
+101462,2012,Both Gender,Hispanic,2y all,181
+101462,2012,Male,Hispanic,2y all,140
+101462,2012,Female,Hispanic,2y all,136
+101462,2012,Both Gender,American Indian,2y all,301
+101462,2012,Male,American Indian,2y all,328
+101462,2012,Female,American Indian,2y all,260
+101462,2012,Both Gender,Asian,2y all,385
+101462,2012,Male,Asian,2y all,181
+101462,2012,Female,Asian,2y all,370
+101462,2013,Both Gender,Unspecified,2y all,100
+101462,2013,Male,Unspecified,2y all,201
+101462,2013,Female,Unspecified,2y all,55
+101462,2013,Both Gender,White,2y all,381
+101462,2013,Male,White,2y all,88
+101462,2013,Female,White,2y all,113
+101462,2013,Both Gender,Black,2y all,253
+101462,2013,Male,Black,2y all,110
+101462,2013,Female,Black,2y all,86
+101462,2013,Both Gender,Hispanic,2y all,245
+101462,2013,Male,Hispanic,2y all,220
+101462,2013,Female,Hispanic,2y all,93
+101462,2013,Both Gender,American Indian,2y all,62
+101462,2013,Male,American Indian,2y all,107
+101462,2013,Female,American Indian,2y all,328
+101462,2013,Both Gender,Asian,2y all,322
+101462,2013,Male,Asian,2y all,345
+101462,2013,Female,Asian,2y all,190
+101499,2011,Both Gender,Unspecified,2y all,54
+101499,2011,Male,Unspecified,2y all,267
+101499,2011,Female,Unspecified,2y all,113
+101499,2011,Both Gender,White,2y all,248
+101499,2011,Male,White,2y all,227
+101499,2011,Female,White,2y all,166
+101499,2011,Both Gender,Black,2y all,239
+101499,2011,Male,Black,2y all,326
+101499,2011,Female,Black,2y all,305
+101499,2011,Both Gender,Hispanic,2y all,139
+101499,2011,Male,Hispanic,2y all,354
+101499,2011,Female,Hispanic,2y all,375
+101499,2011,Both Gender,American Indian,2y all,189
+101499,2011,Male,American Indian,2y all,71
+101499,2011,Female,American Indian,2y all,232
+101499,2011,Both Gender,Asian,2y all,260
+101499,2011,Male,Asian,2y all,265
+101499,2011,Female,Asian,2y all,131
+101499,2012,Both Gender,Unspecified,2y all,331
+101499,2012,Male,Unspecified,2y all,93
+101499,2012,Female,Unspecified,2y all,214
+101499,2012,Both Gender,White,2y all,320
+101499,2012,Male,White,2y all,55
+101499,2012,Female,White,2y all,373
+101499,2012,Both Gender,Black,2y all,344
+101499,2012,Male,Black,2y all,208
+101499,2012,Female,Black,2y all,87
+101499,2012,Both Gender,Hispanic,2y all,246
+101499,2012,Male,Hispanic,2y all,135
+101499,2012,Female,Hispanic,2y all,50
+101499,2012,Both Gender,American Indian,2y all,240
+101499,2012,Male,American Indian,2y all,175
+101499,2012,Female,American Indian,2y all,395
+101499,2012,Both Gender,Asian,2y all,272
+101499,2012,Male,Asian,2y all,217
+101499,2012,Female,Asian,2y all,303
+101499,2013,Both Gender,Unspecified,2y all,331
+101499,2013,Male,Unspecified,2y all,252
+101499,2013,Female,Unspecified,2y all,323
+101499,2013,Both Gender,White,2y all,78
+101499,2013,Male,White,2y all,109
+101499,2013,Female,White,2y all,84
+101499,2013,Both Gender,Black,2y all,113
+101499,2013,Male,Black,2y all,346
+101499,2013,Female,Black,2y all,287
+101499,2013,Both Gender,Hispanic,2y all,65
+101499,2013,Male,Hispanic,2y all,351
+101499,2013,Female,Hispanic,2y all,74
+101499,2013,Both Gender,American Indian,2y all,84
+101499,2013,Male,American Indian,2y all,205
+101499,2013,Female,American Indian,2y all,131
+101499,2013,Both Gender,Asian,2y all,235
+101499,2013,Male,Asian,2y all,216
+101499,2013,Female,Asian,2y all,210
+101505,2011,Both Gender,Unspecified,2y all,63
+101505,2011,Male,Unspecified,2y all,228
+101505,2011,Female,Unspecified,2y all,345
+101505,2011,Both Gender,White,2y all,66
+101505,2011,Male,White,2y all,57
+101505,2011,Female,White,2y all,385
+101505,2011,Both Gender,Black,2y all,99
+101505,2011,Male,Black,2y all,294
+101505,2011,Female,Black,2y all,338
+101505,2011,Both Gender,Hispanic,2y all,50
+101505,2011,Male,Hispanic,2y all,154
+101505,2011,Female,Hispanic,2y all,139
+101505,2011,Both Gender,American Indian,2y all,274
+101505,2011,Male,American Indian,2y all,247
+101505,2011,Female,American Indian,2y all,235
+101505,2011,Both Gender,Asian,2y all,373
+101505,2011,Male,Asian,2y all,301
+101505,2011,Female,Asian,2y all,265
+101505,2012,Both Gender,Unspecified,2y all,266
+101505,2012,Male,Unspecified,2y all,222
+101505,2012,Female,Unspecified,2y all,162
+101505,2012,Both Gender,White,2y all,110
+101505,2012,Male,White,2y all,140
+101505,2012,Female,White,2y all,118
+101505,2012,Both Gender,Black,2y all,99
+101505,2012,Male,Black,2y all,95
+101505,2012,Female,Black,2y all,231
+101505,2012,Both Gender,Hispanic,2y all,252
+101505,2012,Male,Hispanic,2y all,195
+101505,2012,Female,Hispanic,2y all,400
+101505,2012,Both Gender,American Indian,2y all,343
+101505,2012,Male,American Indian,2y all,233
+101505,2012,Female,American Indian,2y all,135
+101505,2012,Both Gender,Asian,2y all,265
+101505,2012,Male,Asian,2y all,257
+101505,2012,Female,Asian,2y all,321
+101505,2013,Both Gender,Unspecified,2y all,386
+101505,2013,Male,Unspecified,2y all,373
+101505,2013,Female,Unspecified,2y all,119
+101505,2013,Both Gender,White,2y all,369
+101505,2013,Male,White,2y all,371
+101505,2013,Female,White,2y all,300
+101505,2013,Both Gender,Black,2y all,207
+101505,2013,Male,Black,2y all,92
+101505,2013,Female,Black,2y all,118
+101505,2013,Both Gender,Hispanic,2y all,315
+101505,2013,Male,Hispanic,2y all,226
+101505,2013,Female,Hispanic,2y all,359
+101505,2013,Both Gender,American Indian,2y all,305
+101505,2013,Male,American Indian,2y all,75
+101505,2013,Female,American Indian,2y all,214
+101505,2013,Both Gender,Asian,2y all,332
+101505,2013,Male,Asian,2y all,241
+101505,2013,Female,Asian,2y all,135
+101514,2011,Both Gender,Unspecified,2y all,81
+101514,2011,Male,Unspecified,2y all,226
+101514,2011,Female,Unspecified,2y all,97
+101514,2011,Both Gender,White,2y all,285
+101514,2011,Male,White,2y all,270
+101514,2011,Female,White,2y all,387
+101514,2011,Both Gender,Black,2y all,139
+101514,2011,Male,Black,2y all,163
+101514,2011,Female,Black,2y all,317
+101514,2011,Both Gender,Hispanic,2y all,358
+101514,2011,Male,Hispanic,2y all,52
+101514,2011,Female,Hispanic,2y all,234
+101514,2011,Both Gender,American Indian,2y all,389
+101514,2011,Male,American Indian,2y all,270
+101514,2011,Female,American Indian,2y all,151
+101514,2011,Both Gender,Asian,2y all,376
+101514,2011,Male,Asian,2y all,146
+101514,2011,Female,Asian,2y all,204
+101514,2012,Both Gender,Unspecified,2y all,251
+101514,2012,Male,Unspecified,2y all,120
+101514,2012,Female,Unspecified,2y all,192
+101514,2012,Both Gender,White,2y all,361
+101514,2012,Male,White,2y all,397
+101514,2012,Female,White,2y all,392
+101514,2012,Both Gender,Black,2y all,384
+101514,2012,Male,Black,2y all,98
+101514,2012,Female,Black,2y all,151
+101514,2012,Both Gender,Hispanic,2y all,123
+101514,2012,Male,Hispanic,2y all,291
+101514,2012,Female,Hispanic,2y all,391
+101514,2012,Both Gender,American Indian,2y all,199
+101514,2012,Male,American Indian,2y all,368
+101514,2012,Female,American Indian,2y all,263
+101514,2012,Both Gender,Asian,2y all,73
+101514,2012,Male,Asian,2y all,207
+101514,2012,Female,Asian,2y all,153
+101514,2013,Both Gender,Unspecified,2y all,260
+101514,2013,Male,Unspecified,2y all,236
+101514,2013,Female,Unspecified,2y all,227
+101514,2013,Both Gender,White,2y all,281
+101514,2013,Male,White,2y all,272
+101514,2013,Female,White,2y all,226
+101514,2013,Both Gender,Black,2y all,65
+101514,2013,Male,Black,2y all,365
+101514,2013,Female,Black,2y all,247
+101514,2013,Both Gender,Hispanic,2y all,183
+101514,2013,Male,Hispanic,2y all,177
+101514,2013,Female,Hispanic,2y all,348
+101514,2013,Both Gender,American Indian,2y all,65
+101514,2013,Male,American Indian,2y all,236
+101514,2013,Female,American Indian,2y all,84
+101514,2013,Both Gender,Asian,2y all,353
+101514,2013,Male,Asian,2y all,390
+101514,2013,Female,Asian,2y all,239
+101569,2011,Both Gender,Unspecified,2y all,142
+101569,2011,Male,Unspecified,2y all,154
+101569,2011,Female,Unspecified,2y all,311
+101569,2011,Both Gender,White,2y all,148
+101569,2011,Male,White,2y all,244
+101569,2011,Female,White,2y all,142
+101569,2011,Both Gender,Black,2y all,294
+101569,2011,Male,Black,2y all,71
+101569,2011,Female,Black,2y all,220
+101569,2011,Both Gender,Hispanic,2y all,352
+101569,2011,Male,Hispanic,2y all,202
+101569,2011,Female,Hispanic,2y all,135
+101569,2011,Both Gender,American Indian,2y all,230
+101569,2011,Male,American Indian,2y all,287
+101569,2011,Female,American Indian,2y all,222
+101569,2011,Both Gender,Asian,2y all,136
+101569,2011,Male,Asian,2y all,275
+101569,2011,Female,Asian,2y all,384
+101569,2012,Both Gender,Unspecified,2y all,91
+101569,2012,Male,Unspecified,2y all,290
+101569,2012,Female,Unspecified,2y all,231
+101569,2012,Both Gender,White,2y all,395
+101569,2012,Male,White,2y all,119
+101569,2012,Female,White,2y all,102
+101569,2012,Both Gender,Black,2y all,188
+101569,2012,Male,Black,2y all,166
+101569,2012,Female,Black,2y all,214
+101569,2012,Both Gender,Hispanic,2y all,139
+101569,2012,Male,Hispanic,2y all,136
+101569,2012,Female,Hispanic,2y all,343
+101569,2012,Both Gender,American Indian,2y all,290
+101569,2012,Male,American Indian,2y all,339
+101569,2012,Female,American Indian,2y all,164
+101569,2012,Both Gender,Asian,2y all,241
+101569,2012,Male,Asian,2y all,334
+101569,2012,Female,Asian,2y all,176
+101569,2013,Both Gender,Unspecified,2y all,380
+101569,2013,Male,Unspecified,2y all,175
+101569,2013,Female,Unspecified,2y all,399
+101569,2013,Both Gender,White,2y all,238
+101569,2013,Male,White,2y all,398
+101569,2013,Female,White,2y all,176
+101569,2013,Both Gender,Black,2y all,194
+101569,2013,Male,Black,2y all,373
+101569,2013,Female,Black,2y all,356
+101569,2013,Both Gender,Hispanic,2y all,183
+101569,2013,Male,Hispanic,2y all,370
+101569,2013,Female,Hispanic,2y all,90
+101569,2013,Both Gender,American Indian,2y all,198
+101569,2013,Male,American Indian,2y all,115
+101569,2013,Female,American Indian,2y all,339
+101569,2013,Both Gender,Asian,2y all,300
+101569,2013,Male,Asian,2y all,304
+101569,2013,Female,Asian,2y all,284
+101602,2011,Both Gender,Unspecified,2y all,53
+101602,2011,Male,Unspecified,2y all,52
+101602,2011,Female,Unspecified,2y all,203
+101602,2011,Both Gender,White,2y all,246
+101602,2011,Male,White,2y all,244
+101602,2011,Female,White,2y all,177
+101602,2011,Both Gender,Black,2y all,223
+101602,2011,Male,Black,2y all,77
+101602,2011,Female,Black,2y all,205
+101602,2011,Both Gender,Hispanic,2y all,105
+101602,2011,Male,Hispanic,2y all,82
+101602,2011,Female,Hispanic,2y all,352
+101602,2011,Both Gender,American Indian,2y all,333
+101602,2011,Male,American Indian,2y all,254
+101602,2011,Female,American Indian,2y all,73
+101602,2011,Both Gender,Asian,2y all,196
+101602,2011,Male,Asian,2y all,124
+101602,2011,Female,Asian,2y all,386
+101602,2012,Both Gender,Unspecified,2y all,247
+101602,2012,Male,Unspecified,2y all,197
+101602,2012,Female,Unspecified,2y all,187
+101602,2012,Both Gender,White,2y all,274
+101602,2012,Male,White,2y all,52
+101602,2012,Female,White,2y all,153
+101602,2012,Both Gender,Black,2y all,111
+101602,2012,Male,Black,2y all,175
+101602,2012,Female,Black,2y all,372
+101602,2012,Both Gender,Hispanic,2y all,269
+101602,2012,Male,Hispanic,2y all,263
+101602,2012,Female,Hispanic,2y all,395
+101602,2012,Both Gender,American Indian,2y all,338
+101602,2012,Male,American Indian,2y all,305
+101602,2012,Female,American Indian,2y all,254
+101602,2012,Both Gender,Asian,2y all,88
+101602,2012,Male,Asian,2y all,92
+101602,2012,Female,Asian,2y all,327
+101602,2013,Both Gender,Unspecified,2y all,264
+101602,2013,Male,Unspecified,2y all,85
+101602,2013,Female,Unspecified,2y all,263
+101602,2013,Both Gender,White,2y all,131
+101602,2013,Male,White,2y all,125
+101602,2013,Female,White,2y all,95
+101602,2013,Both Gender,Black,2y all,52
+101602,2013,Male,Black,2y all,131
+101602,2013,Female,Black,2y all,379
+101602,2013,Both Gender,Hispanic,2y all,160
+101602,2013,Male,Hispanic,2y all,134
+101602,2013,Female,Hispanic,2y all,265
+101602,2013,Both Gender,American Indian,2y all,97
+101602,2013,Male,American Indian,2y all,308
+101602,2013,Female,American Indian,2y all,256
+101602,2013,Both Gender,Asian,2y all,179
+101602,2013,Male,Asian,2y all,231
+101602,2013,Female,Asian,2y all,386
+101648,2011,Both Gender,Unspecified,2y all,345
+101648,2011,Male,Unspecified,2y all,211
+101648,2011,Female,Unspecified,2y all,132
+101648,2011,Both Gender,White,2y all,381
+101648,2011,Male,White,2y all,108
+101648,2011,Female,White,2y all,56
+101648,2011,Both Gender,Black,2y all,330
+101648,2011,Male,Black,2y all,365
+101648,2011,Female,Black,2y all,151
+101648,2011,Both Gender,Hispanic,2y all,91
+101648,2011,Male,Hispanic,2y all,152
+101648,2011,Female,Hispanic,2y all,299
+101648,2011,Both Gender,American Indian,2y all,394
+101648,2011,Male,American Indian,2y all,181
+101648,2011,Female,American Indian,2y all,133
+101648,2011,Both Gender,Asian,2y all,80
+101648,2011,Male,Asian,2y all,251
+101648,2011,Female,Asian,2y all,293
+101648,2012,Both Gender,Unspecified,2y all,59
+101648,2012,Male,Unspecified,2y all,356
+101648,2012,Female,Unspecified,2y all,266
+101648,2012,Both Gender,White,2y all,273
+101648,2012,Male,White,2y all,50
+101648,2012,Female,White,2y all,137
+101648,2012,Both Gender,Black,2y all,290
+101648,2012,Male,Black,2y all,360
+101648,2012,Female,Black,2y all,344
+101648,2012,Both Gender,Hispanic,2y all,65
+101648,2012,Male,Hispanic,2y all,330
+101648,2012,Female,Hispanic,2y all,164
+101648,2012,Both Gender,American Indian,2y all,66
+101648,2012,Male,American Indian,2y all,260
+101648,2012,Female,American Indian,2y all,383
+101648,2012,Both Gender,Asian,2y all,386
+101648,2012,Male,Asian,2y all,216
+101648,2012,Female,Asian,2y all,78
+101648,2013,Both Gender,Unspecified,2y all,365
+101648,2013,Male,Unspecified,2y all,232
+101648,2013,Female,Unspecified,2y all,271
+101648,2013,Both Gender,White,2y all,380
+101648,2013,Male,White,2y all,378
+101648,2013,Female,White,2y all,242
+101648,2013,Both Gender,Black,2y all,58
+101648,2013,Male,Black,2y all,104
+101648,2013,Female,Black,2y all,203
+101648,2013,Both Gender,Hispanic,2y all,101
+101648,2013,Male,Hispanic,2y all,316
+101648,2013,Female,Hispanic,2y all,185
+101648,2013,Both Gender,American Indian,2y all,103
+101648,2013,Male,American Indian,2y all,77
+101648,2013,Female,American Indian,2y all,61
+101648,2013,Both Gender,Asian,2y all,394
+101648,2013,Male,Asian,2y all,240
+101648,2013,Female,Asian,2y all,102
+101736,2011,Both Gender,Unspecified,2y all,151
+101736,2011,Male,Unspecified,2y all,176
+101736,2011,Female,Unspecified,2y all,210
+101736,2011,Both Gender,White,2y all,351
+101736,2011,Male,White,2y all,386
+101736,2011,Female,White,2y all,51
+101736,2011,Both Gender,Black,2y all,328
+101736,2011,Male,Black,2y all,338
+101736,2011,Female,Black,2y all,259
+101736,2011,Both Gender,Hispanic,2y all,266
+101736,2011,Male,Hispanic,2y all,88
+101736,2011,Female,Hispanic,2y all,129
+101736,2011,Both Gender,American Indian,2y all,169
+101736,2011,Male,American Indian,2y all,84
+101736,2011,Female,American Indian,2y all,264
+101736,2011,Both Gender,Asian,2y all,362
+101736,2011,Male,Asian,2y all,374
+101736,2011,Female,Asian,2y all,349
+101736,2012,Both Gender,Unspecified,2y all,172
+101736,2012,Male,Unspecified,2y all,237
+101736,2012,Female,Unspecified,2y all,187
+101736,2012,Both Gender,White,2y all,155
+101736,2012,Male,White,2y all,170
+101736,2012,Female,White,2y all,340
+101736,2012,Both Gender,Black,2y all,139
+101736,2012,Male,Black,2y all,380
+101736,2012,Female,Black,2y all,199
+101736,2012,Both Gender,Hispanic,2y all,98
+101736,2012,Male,Hispanic,2y all,369
+101736,2012,Female,Hispanic,2y all,80
+101736,2012,Both Gender,American Indian,2y all,328
+101736,2012,Male,American Indian,2y all,261
+101736,2012,Female,American Indian,2y all,75
+101736,2012,Both Gender,Asian,2y all,131
+101736,2012,Male,Asian,2y all,217
+101736,2012,Female,Asian,2y all,198
+101736,2013,Both Gender,Unspecified,2y all,243
+101736,2013,Male,Unspecified,2y all,148
+101736,2013,Female,Unspecified,2y all,268
+101736,2013,Both Gender,White,2y all,245
+101736,2013,Male,White,2y all,296
+101736,2013,Female,White,2y all,176
+101736,2013,Both Gender,Black,2y all,162
+101736,2013,Male,Black,2y all,169
+101736,2013,Female,Black,2y all,286
+101736,2013,Both Gender,Hispanic,2y all,383
+101736,2013,Male,Hispanic,2y all,117
+101736,2013,Female,Hispanic,2y all,300
+101736,2013,Both Gender,American Indian,2y all,294
+101736,2013,Male,American Indian,2y all,208
+101736,2013,Female,American Indian,2y all,317
+101736,2013,Both Gender,Asian,2y all,189
+101736,2013,Male,Asian,2y all,233
+101736,2013,Female,Asian,2y all,173
+101897,2011,Both Gender,Unspecified,2y all,230
+101897,2011,Male,Unspecified,2y all,104
+101897,2011,Female,Unspecified,2y all,128
+101897,2011,Both Gender,White,2y all,261
+101897,2011,Male,White,2y all,74
+101897,2011,Female,White,2y all,299
+101897,2011,Both Gender,Black,2y all,104
+101897,2011,Male,Black,2y all,102
+101897,2011,Female,Black,2y all,366
+101897,2011,Both Gender,Hispanic,2y all,360
+101897,2011,Male,Hispanic,2y all,127
+101897,2011,Female,Hispanic,2y all,284
+101897,2011,Both Gender,American Indian,2y all,172
+101897,2011,Male,American Indian,2y all,178
+101897,2011,Female,American Indian,2y all,372
+101897,2011,Both Gender,Asian,2y all,384
+101897,2011,Male,Asian,2y all,185
+101897,2011,Female,Asian,2y all,66
+101897,2012,Both Gender,Unspecified,2y all,368
+101897,2012,Male,Unspecified,2y all,166
+101897,2012,Female,Unspecified,2y all,388
+101897,2012,Both Gender,White,2y all,234
+101897,2012,Male,White,2y all,141
+101897,2012,Female,White,2y all,320
+101897,2012,Both Gender,Black,2y all,79
+101897,2012,Male,Black,2y all,132
+101897,2012,Female,Black,2y all,179
+101897,2012,Both Gender,Hispanic,2y all,182
+101897,2012,Male,Hispanic,2y all,318
+101897,2012,Female,Hispanic,2y all,297
+101897,2012,Both Gender,American Indian,2y all,214
+101897,2012,Male,American Indian,2y all,165
+101897,2012,Female,American Indian,2y all,73
+101897,2012,Both Gender,Asian,2y all,366
+101897,2012,Male,Asian,2y all,380
+101897,2012,Female,Asian,2y all,185
+101897,2013,Both Gender,Unspecified,2y all,373
+101897,2013,Male,Unspecified,2y all,282
+101897,2013,Female,Unspecified,2y all,184
+101897,2013,Both Gender,White,2y all,52
+101897,2013,Male,White,2y all,75
+101897,2013,Female,White,2y all,127
+101897,2013,Both Gender,Black,2y all,306
+101897,2013,Male,Black,2y all,334
+101897,2013,Female,Black,2y all,368
+101897,2013,Both Gender,Hispanic,2y all,342
+101897,2013,Male,Hispanic,2y all,104
+101897,2013,Female,Hispanic,2y all,269
+101897,2013,Both Gender,American Indian,2y all,222
+101897,2013,Male,American Indian,2y all,228
+101897,2013,Female,American Indian,2y all,379
+101897,2013,Both Gender,Asian,2y all,89
+101897,2013,Male,Asian,2y all,246
+101897,2013,Female,Asian,2y all,100
+101949,2011,Both Gender,Unspecified,2y all,185
+101949,2011,Male,Unspecified,2y all,309
+101949,2011,Female,Unspecified,2y all,252
+101949,2011,Both Gender,White,2y all,120
+101949,2011,Male,White,2y all,387
+101949,2011,Female,White,2y all,64
+101949,2011,Both Gender,Black,2y all,179
+101949,2011,Male,Black,2y all,332
+101949,2011,Female,Black,2y all,259
+101949,2011,Both Gender,Hispanic,2y all,248
+101949,2011,Male,Hispanic,2y all,182
+101949,2011,Female,Hispanic,2y all,141
+101949,2011,Both Gender,American Indian,2y all,287
+101949,2011,Male,American Indian,2y all,360
+101949,2011,Female,American Indian,2y all,365
+101949,2011,Both Gender,Asian,2y all,312
+101949,2011,Male,Asian,2y all,163
+101949,2011,Female,Asian,2y all,54
+101949,2012,Both Gender,Unspecified,2y all,150
+101949,2012,Male,Unspecified,2y all,66
+101949,2012,Female,Unspecified,2y all,220
+101949,2012,Both Gender,White,2y all,270
+101949,2012,Male,White,2y all,298
+101949,2012,Female,White,2y all,342
+101949,2012,Both Gender,Black,2y all,349
+101949,2012,Male,Black,2y all,75
+101949,2012,Female,Black,2y all,388
+101949,2012,Both Gender,Hispanic,2y all,84
+101949,2012,Male,Hispanic,2y all,92
+101949,2012,Female,Hispanic,2y all,381
+101949,2012,Both Gender,American Indian,2y all,187
+101949,2012,Male,American Indian,2y all,205
+101949,2012,Female,American Indian,2y all,117
+101949,2012,Both Gender,Asian,2y all,224
+101949,2012,Male,Asian,2y all,115
+101949,2012,Female,Asian,2y all,52
+101949,2013,Both Gender,Unspecified,2y all,143
+101949,2013,Male,Unspecified,2y all,192
+101949,2013,Female,Unspecified,2y all,277
+101949,2013,Both Gender,White,2y all,232
+101949,2013,Male,White,2y all,272
+101949,2013,Female,White,2y all,195
+101949,2013,Both Gender,Black,2y all,371
+101949,2013,Male,Black,2y all,283
+101949,2013,Female,Black,2y all,128
+101949,2013,Both Gender,Hispanic,2y all,181
+101949,2013,Male,Hispanic,2y all,116
+101949,2013,Female,Hispanic,2y all,257
+101949,2013,Both Gender,American Indian,2y all,56
+101949,2013,Male,American Indian,2y all,338
+101949,2013,Female,American Indian,2y all,340
+101949,2013,Both Gender,Asian,2y all,297
+101949,2013,Male,Asian,2y all,268
+101949,2013,Female,Asian,2y all,281
+101958,2011,Both Gender,Unspecified,2y all,338
+101958,2011,Male,Unspecified,2y all,107
+101958,2011,Female,Unspecified,2y all,209
+101958,2011,Both Gender,White,2y all,311
+101958,2011,Male,White,2y all,204
+101958,2011,Female,White,2y all,296
+101958,2011,Both Gender,Black,2y all,137
+101958,2011,Male,Black,2y all,67
+101958,2011,Female,Black,2y all,154
+101958,2011,Both Gender,Hispanic,2y all,275
+101958,2011,Male,Hispanic,2y all,223
+101958,2011,Female,Hispanic,2y all,252
+101958,2011,Both Gender,American Indian,2y all,216
+101958,2011,Male,American Indian,2y all,73
+101958,2011,Female,American Indian,2y all,251
+101958,2011,Both Gender,Asian,2y all,392
+101958,2011,Male,Asian,2y all,238
+101958,2011,Female,Asian,2y all,50
+101958,2012,Both Gender,Unspecified,2y all,293
+101958,2012,Male,Unspecified,2y all,330
+101958,2012,Female,Unspecified,2y all,336
+101958,2012,Both Gender,White,2y all,222
+101958,2012,Male,White,2y all,258
+101958,2012,Female,White,2y all,78
+101958,2012,Both Gender,Black,2y all,311
+101958,2012,Male,Black,2y all,264
+101958,2012,Female,Black,2y all,189
